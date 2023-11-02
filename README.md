@@ -4,6 +4,7 @@ Hello, I'm Luis, a passionate developer who loves creating tools and sharing the
 
 - 🔭 I’m currently working on WatchSync.
 - 🌱 I’m currently learning Qt.
-- 👥 I’m looking to collaborate with anyone on any project. 
-- 🧠 I’m looking for help with OpenGL.
-- ⚡ Fun fact I'm a 3D enthusiast!
+- 👀 I’m looking to collaborate with anyone on any project. 
+- 💕 Fun fact I'm a 3D enthusiast!
+- 🎓 I’m looking for help with OpenGL.
+- 📫 How to reach me [Linkdedin](https://www.linkedin.com/in/montoyalmp/)
