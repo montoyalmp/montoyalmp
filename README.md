@@ -9,7 +9,3 @@ Hello, I'm Luis, a passionate developer who loves creating tools and sharing the
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I'm a 3D enthusiast!
-
-### Languages and Toold:
-
-
